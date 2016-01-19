@@ -1,6 +1,8 @@
 #!/usr/bin/env python
 # Copyright by Nick Zarczynski
-# Please don't sue me
+# Please don't sue me for posting this on github
+# https://pointlessprogramming.wordpress.com/2011/02/13/python-cgi-tutorial-1/
+# Retrieved 2016-01-19
  
 import BaseHTTPServer
 import CGIHTTPServer
