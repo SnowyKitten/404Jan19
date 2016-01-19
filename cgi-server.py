@@ -1,5 +1,6 @@
 #!/usr/bin/env python
 # Copyright by Nick Zarczynski
+# Please don't sue me
  
 import BaseHTTPServer
 import CGIHTTPServer
